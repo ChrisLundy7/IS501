@@ -1,0 +1,10 @@
+.centered-text {
+    text-align: center;
+}
+
+h3 {
+    margin: 0;
+    padding: 0;
+    font-size: 1.17em; 
+    font-weight: normal 
+}
